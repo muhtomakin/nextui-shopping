@@ -1,3 +1,5 @@
+To see the project on live [Click](https://bespoke-fairy-2e5c81.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
